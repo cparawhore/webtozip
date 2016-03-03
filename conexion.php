@@ -2,7 +2,7 @@
 $mysql_host = "us-cdbr-azure-central-a.cloudapp.net";
 $mysql_database = "dbarranca";
 $mysql_user = "b6a0edcc69e543";
-$mysql_password = "1fac6bca ";
+$mysql_password = "1fac6bca";
 #Inicio coneccion a base de datos
    if (!($link=mysql_connect($mysql_host, $mysql_user, $mysql_password))) 
    { 
